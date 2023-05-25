@@ -14,7 +14,7 @@ Sistem Alarm Pendeteksi Maling dengan sensor PIR menggunakan platform IOT
 <br>
 <b> Deskripsi : </b>
 
-Sensor yang menangkap pergerakan akan meneruskan pesan ke broker, dan broker akan meneruskan ke perangkat client yang telah mensubscribe topic dengan pemberitahuan pesan "Gerakan Terdeteksi". Alarm Deteksi ini menggunakan platform Chat Bot Telegram.
+Sensor yang menangkap pergerakan akan meneruskan pesan ke broker, dan broker akan meneruskan ke perangkat client yang telah mensubscribe topic dengan pemberitahuan pesan "Rumah Aman" dan "Ada Maling". Alarm Deteksi ini menggunakan platform IOT Kodular.
 
 <br>
 <b> Pembagian Tugas : </b>
